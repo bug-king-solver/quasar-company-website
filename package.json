@@ -5,7 +5,7 @@
   "productName": "Company Profile Website Using Quasar",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
-  "author": "Mayank Patel",
+  "author": "BugKing",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
