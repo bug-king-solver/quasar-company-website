@@ -4,51 +4,44 @@ Free template for company profile made using Quasar Framework and Vue.js! It is 
 
 ## Site: [https://quasar-company-profile-template.netlify.app/](https://quasar-company-profile-template.netlify.app/)
 
-# Support
-
-If this helped you, you can contribute to this project by supporting me:
-
-### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayank091193)
-
-Please check out my sponsor page.
-
-(GitHub currently **doubles your support**! So if you support me with $5/mo, I will get $10 instead! 😉)
-
-Thank you very much!!
-
 ## Resources used
-* [Quasar Framework](https://quasar.dev/)
-* [Vue.js](https://vuejs.org/)
+
+- [Quasar Framework](https://quasar.dev/)
+- [Vue.js](https://vuejs.org/)
 
 ## Installation
 
-* **Clone the repository**
+- **Clone the repository**
 
 ```
-git clone https://github.com/mayank091193/vue-quasar-company-profile-website.git
+git clone https://github.com/bug-king-solver/quasar-company-website.git
 ```
 
 ## Install the dependencies
+
 ```bash
-cd vue-quasar-company-profile-website
+cd quasar-company-profile-website
 npm install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
+
 ```bash
 quasar dev
 ```
 
-
 ### Build the app for production
+
 ```bash
 quasar build
 ```
 
-Do reach out to me at "mayank091193@gmail.com" for queries.
+Do reach out to me at "bug-king-solver@gmail.com" for queries.
 
 ## Screens UI
+
 **Home**
+
 <p float="left">
 	<kbd>
 <img src="assets/home.png" border="1" alt="Home"
@@ -57,6 +50,7 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 </p>
 
 **Portfolio**
+
 <p float="left">
 	<kbd>
 <img src="assets/portfolio.png" border="1" alt="Portfolio"
@@ -65,6 +59,7 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 </p>
 
 **Pricing**
+
 <p float="left">
 	<kbd>
 <img src="assets/pricing.png" border="1" alt="Pricing"
@@ -73,6 +68,7 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 </p>
 
 **News**
+
 <p float="left">
 	<kbd>
 <img src="assets/news.png" border="1" alt="News"
@@ -81,6 +77,7 @@ Do reach out to me at "mayank091193@gmail.com" for queries.
 </p>
 
 ### Customize the configuration
+
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 ## License
