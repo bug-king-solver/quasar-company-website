@@ -19,6 +19,8 @@ git clone https://github.com/bug-king-solver/quasar-company-website.git
 
 ## Install the dependencies
 
+- node : 14
+
 ```bash
 cd quasar-company-profile-website
 npm install
